@@ -1,1 +1,13 @@
 observation,theme
+P1 [0:00-1:00] Read the prompt.,reading & editing the prompt
+"P1 [~1:00] Copied the prompt, opened ChatGPT, and pasted it.",reading & editing the prompt
+"P1 [2:00] Before running, added 'You are a financial analyst' plus instructions to use code execution and show the method.",reading & editing the prompt
+"P1 [6:00-8:30] Asked what annualized return means, then checked the math.",double-checking / distrust
+P1 (from chat) Checked the math by asking ChatGPT to 'redo all calculations' with code execution.,double-checking / distrust
+P1 [End] Final answer: 95.14% for both total and annualized return.,confirmed final answer
+"P2 [0:00-1:00] Read the prompt, then copied and pasted it into Claude.",reading & editing the prompt
+P2 [2:00] Began adding to the prompt: 'You are an analyst looking at NVIDIA stock prices. Use code...',reading & editing the prompt
+"P2 [3:00-4:00] Kept editing and reviewing the prompt, and moved the instructions above the price data.",reading & editing the prompt
+"P2 [6:00] Asked a follow-up: why are total and annualized return the same, and what equation was used? Reviewed the answer line by line.",double-checking / distrust
+P2 [7:00] Opened the calculator app to check the math.,double-checking / distrust
+P2 [7:45] Final answer: 95.14% for both total and annualized return.,confirmed final answer
